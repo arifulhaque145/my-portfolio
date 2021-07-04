@@ -15,7 +15,6 @@ h1 span {
 #head {
     background-image : url(img/top-banner.png);
     background-repeat: no-repeat;
-    margin-right     : 20%;
 }
 
 .half-card {
@@ -28,8 +27,7 @@ h1 span {
 }
 
 .show-card img {
-    padding-right: 70%;
-    width        : 135%;
+    width: 135%;
 }
 
 .link-btn {
@@ -65,7 +63,7 @@ h1 span {
     padding          : 10px 20px;
     border-radius    : 5px;
     border-left-style: solid;
-    border-left-width: 7px;
+    border-left-width: 5px;
     border-image     : linear-gradient(purple, tomato) 1;
 }
 
@@ -74,11 +72,12 @@ h1 span {
 }
 
 #pro {
-    margin-left      : 8%;
+    margin-left      : 10%;
+    margin-right     : 7.25%;
     padding          : 10px 20px;
     border-radius    : 5px;
     border-left-style: solid;
-    border-left-width: 7px;
+    border-left-width: 5px;
     border-image     : linear-gradient(blue, cyan) 1;
 }
 
